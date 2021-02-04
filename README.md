@@ -1,2 +1,2 @@
-# sample
-サンプル
+# PythonProject
+Pythonの練習場所
